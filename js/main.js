@@ -1,2 +1,2 @@
-import './pages/common.js';
-import './pages/index.js';
+// @prepros-append pages/common.js
+// @prepros-append pages/index.js
